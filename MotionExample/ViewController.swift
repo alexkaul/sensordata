@@ -35,7 +35,6 @@ class ViewController: UIViewController {
     }
     
     override func viewDidLoad() {
-
         currentAccXmax = 0.0
         currentAccYmax = 0.0
         currentAccZmax = 0.0
